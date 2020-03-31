@@ -1,6 +1,6 @@
 # Evolutionary-Spatial-Games
 
-#How to use
+# How to use
 
 To run the application from the terminal, use the command 
 
@@ -12,7 +12,7 @@ Tkinter is used to create a GUI allowing a user to experiment with different evo
 
 Numpy must be installed for this to run.
 
-#Using the interface
+# Using the interface
 
 To use the interface you must input a payoff matrix. Then you can configure the boundary conditions and neighbourhood 
 condition for the cellular automata.
